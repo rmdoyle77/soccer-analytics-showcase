@@ -6,7 +6,7 @@
 [![Shiny](https://img.shields.io/badge/Framework-R%20Shiny-blueviolet?style=for-the-badge&logo=rstudio)](https://shiny.rstudio.com/)
 [![SQL](https://img.shields.io/badge/Database-SQL%20Aggregations-orange?style=for-the-badge&logo=postgresql)](#sql-analytics)
 [![Impact](https://img.shields.io/badge/Standing%20Impact-6th%20to%203rd%20Place-success?style=for-the-badge)](#project-impact)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
 
 ---
 
