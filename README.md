@@ -100,9 +100,3 @@ Sample analytical SQL queries used for computing form metrics, rolling xG differ
 ## 🔒 Data Privacy & Governance Notice
 
 *Note: In accordance with NCAA compliance and athletic department policies, all proprietary team performance and player biometric data have been excluded. The included datasets and interactive demonstrations utilize synthetic, anonymized event figures to showcase architecture, analytical modeling, and UI design without compromising proprietary scouting strategy.*
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See [LICENSE](LICENSE) for details.
